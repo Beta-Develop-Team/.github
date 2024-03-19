@@ -7,4 +7,5 @@ This is a Open-Source Project.
 This project started in 2024.
 Thank you for watching this page.
 ## Languages
+### Thecode764 Github Stats
 ![Logo](https://github-readme-stats.vercel.app/api?username=Thecode764)
