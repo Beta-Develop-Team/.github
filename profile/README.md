@@ -18,4 +18,4 @@ Thank you for watching this page.
 
 ![JS](https://img.shields.io/badge/JS-yellow?logo=javascript&logoColor=white)
 
-[![PyCharm](https://img.shields.io/badge/Vscode-black?logo=visual%20studio%20code&logoColor=white)(https://vscode.dev)
+[![Code](https://img.shields.io/badge/Vscode-black?logo=visual%20studio%20code&logoColor=white)](https://vscode.dev)
