@@ -8,4 +8,4 @@ This project started in 2024.
 Thank you for watching this page.
 ## Languages
 ### Thecode764 Github Stats
-![Logo](https://github-readme-stats.vercel.app/api/top-langs/?username=Thecode764&layout=compact)]
+![Logo](https://github-readme-stats.vercel.app/api/top-langs/?username=Beta-Develop-Team&layout=compact)
